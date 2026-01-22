@@ -2,6 +2,3 @@
 ## Ingedients
 * avacado
 * lemon
-* salt
-## Instructions
-
